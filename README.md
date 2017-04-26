@@ -1,5 +1,8 @@
 # DOM StaticRange
 
+**NOTE: This specification has been MOVED to: https://github.com/w3c/staticrange**
+
+
 Incubation repo for the `StaticRange` [original proposal](https://github.com/garykac/staticrange/blob/gh-pages/staticrange.md) and preliminary [specification](http://garykac.github.io/staticrange/index.html).
 
 `StaticRange` is a lightweight substitute for `Range`
